@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingealidate",
+        "uuid": 603872,
+        "checksum": "mhtq74"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
